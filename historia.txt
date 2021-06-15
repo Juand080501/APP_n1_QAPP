@@ -1,0 +1,4 @@
+esta es la primera prueba de Git 
+la version es 1.0 
+en la fecha 14/06/2021
+para el manejo de versiones
