@@ -3,5 +3,7 @@ la version es 2.0
 en la fecha 15/06/2021
 para el manejo de versiones end
 
+Version editada desde Mac por Juand080501
+
 otro cambio ver4
 y otro mas sin ver 
