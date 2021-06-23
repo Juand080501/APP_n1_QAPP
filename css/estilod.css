@@ -1,6 +1,5 @@
 body
 {
-    background-attachment: #1e1f24;
     color: #333;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -45,4 +44,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
